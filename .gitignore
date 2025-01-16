@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.dbmdl
+*.pdb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.ncb
+*.aps
+*.ilk
+*.log
+*.suo
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.rsuser
+*.user
+*.lock.json
+*.lock
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotNet
+*.dotnet_toolchain/
+*.dotnet_tool/
+*.dotnet_toolchain/
+*.dotnet_tool/
